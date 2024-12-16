@@ -2,7 +2,9 @@
 <h3 align="left">About me 👩‍💻 </h3>
 
 I am a data analyst, business strategist, and storyteller with extensive experience in the financial industry.   
-Throughout my career, I have honed advanced data analysis skills and developed a deep understanding of how data drives informed decision-making and delivers value. This expertise has fueled my passion for combining analytical proficiency with business insights to generate actionable solutions across diverse fields.
+Throughout my career, I have honed advanced data analysis skills and developed a deep understanding of how data drives informed decision-making and deliver value. This expertise has fueled my passion for combining analytical proficiency with business insights to generate actionable solutions across diverse fields.  
+
+- 👩‍🎓 I’m pursuing a master's degree in Data Science at the University of Calgary..
 
 - 🔭 I’m currently working on Fintech & energy projects.
 
