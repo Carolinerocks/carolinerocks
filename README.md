@@ -6,7 +6,7 @@ Throughout my career, I have honed advanced data analysis skills and developed a
 
 <h3 align="left">What's New 🚀 </h3>
 
-- 👩‍🎓 I’m pursuing a master's degree in Data Science at the University of Calgary..
+- 👩‍🎓 I’m pursuing a master's degree in Data Science and Analytics at the University of Calgary..
 
 - 🔭 I’m currently working on Fintech & energy projects.
 
