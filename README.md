@@ -16,7 +16,7 @@ Throughout my career, I have honed advanced data analysis skills and developed a
 
 - 📫 How to reach me **caroline.wang.ca@gmail.com**
 
-<h3 align="left">Connect with me 🤝</h3>
+<h3 align="left">Connect with me 📢</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caroline-wenxin-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline-wenxin-wang" height="30" width="40" /></a>
 </p>
