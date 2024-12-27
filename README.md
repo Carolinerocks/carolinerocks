@@ -12,7 +12,7 @@ Throughout my career, I have honed advanced data analysis skills and developed a
 
 - 👯 I’m looking to collaborate on hackathon.
 
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently learning NLP, LLM.
 
 - 📫 How to reach me **caroline.wang.ca@gmail.com**
 
