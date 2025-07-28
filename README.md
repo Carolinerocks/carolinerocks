@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caroline</h1>
 <h3 align="left">About me 👩‍💻 </h3>
 
-I am a data analyst, business strategist, and storyteller with extensive experience in the financial industry.   
-Throughout my career, I have honed advanced data analysis skills and developed a deep understanding of how data drives informed decision-making and deliver value. This expertise has fueled my passion for combining analytical proficiency with business insights to generate actionable solutions across diverse fields.  
+I am passionate about data, business, and storytelling. With a strong foundation in the financial industry, I’ve seen firsthand how data can drive meaningful insights and strategic decisions. Currently pursuing a Master’s in Data Science and Analytics at the University of Calgary, I enjoy exploring the intersection of data and business, translating complex information into clear, actionable narratives that create impact across domains. 
 
 <h3 align="left">What's New 🚀 </h3>
 
