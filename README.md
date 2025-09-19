@@ -5,11 +5,11 @@ I'm a data and technology enthusiast who loves turning curiosity into insights a
 
 <h3 align="left">What's New 🚀 </h3>
 
-- 👩‍🎓 I’m pursuing a master's degree in Data Science and Analytics at the University of Calgary.
+- 👩‍🎓 I recently completed my master’s degree in Data Science and Analytics at the University of Calgary.
 
 - 🔭 I’m currently working on Fintech & energy projects.
 
-- 👯 I’m looking to collaborate on hackathon.
+- 👯 I’m looking to collaborate on a hackathon.
 
 - 🌱 I’m currently learning NLP and LLM.
 
