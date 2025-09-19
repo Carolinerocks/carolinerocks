@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caroline</h1>
 <h3 align="left">About me 👩‍💻 </h3>
 
-I am passionate about data, business, and storytelling. With a strong foundation in the financial industry, I’ve seen firsthand how data can drive meaningful insights and strategic decisions. Currently pursuing a Master’s in Data Science and Analytics at the University of Calgary, I enjoy exploring the intersection of data and business, translating complex information into clear, actionable narratives that create impact across domains. 
+I'm a data and technology enthusiast who loves turning curiosity into insights and creations.
 
 <h3 align="left">What's New 🚀 </h3>
 
